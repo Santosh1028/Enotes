@@ -1,0 +1,19 @@
+.bg-custom {
+	background: #e91e63;
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	background-color: white;
+	color: black;
+	border-radius: 10%;
+}
+
+.div-color{
+	background-image: linear-gradient(to right top, #37051d, #5c2c4a, #7f557d, #a081b3, #bdb1ea);
+	height: 500px;
+}
